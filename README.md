@@ -1,6 +1,6 @@
 # Thorium Browser for Raspberry Pi
 
-<img src="https://github.com/Alex313031/Thorium-AVX2/blob/main/ThoriumLogo.png"> &nbsp;<img src="https://github.com/Alex313031/Thorium/blob/main/logos/STAGING/Raspberry_Pi_Logo.svg" width="162">
+<img src="https://github.com/Alex313031/Thorium-Raspi/blob/main/ThoriumLogo.png"> &nbsp;<img src="https://github.com/Alex313031/Thorium-Raspi/blob/main/Raspberry_Pi_Logo.svg" width="162">
 
  &ndash; Simply a seperate repo to serve builds of [Thorium](https://thorium.rocks/) for Raspberry Pi. Builds are arm64 (Pi 3B/3B+ & 4/400).
 
